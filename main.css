@@ -1,6 +1,6 @@
 h1 {
     color: red;
-    font-family: 'impact';
+    font-family: 'comic sans ms';
 }
 
 h2 {
@@ -9,6 +9,12 @@ h2 {
 }
 
 p {
-    font-family: 'Arial';
+    color: orangered;
+    font-family: 'comic sans ms';
     font-size: large;
+}
+
+<a {
+    font-size: large;
+    font-family: 'comic sans ms';
 }
