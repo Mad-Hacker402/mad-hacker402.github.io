@@ -1,20 +1,15 @@
 h1 {
-    color: red;
+    color: rgba(255, 0, 0, 0.89);
     font-family: 'comic sans ms';
 }
 
 h2 {
-    color: blue;
+    color: rgba(0, 255, 64, 0.842);
     font-family: 'comic sans ms';
 }
 
 p {
-    color: orangered;
+    color: rgb(174, 0, 255);
     font-family: 'comic sans ms';
     font-size: large;
-}
-
-<a {
-    font-size: large;
-    font-family: 'comic sans ms';
 }
